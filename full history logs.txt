@@ -1,0 +1,30 @@
+
+You: Translate 'Good Morning' into German and then multiply 5 and 6.
+Assistant: Translated 'good morning' to German: Guten Morgen
+5 * 6 = The result is: 30
+--------------------------------------------------
+
+You: Add 10 and 20 , then translate 'Have a nice day into German.' into German.
+Assistant: Translated 'have a nice day into german.' to German: Ich wünsche Ihnen einen schönen Tag in Deutsch.
+10 + 20 = The result is: 30
+--------------------------------------------------
+
+You: Translate 'Sunshine' into German.
+Assistant: Translated 'sunshine' to German: Sonnenschein
+--------------------------------------------------
+
+You: Tell me the capital of Italy, thrn multiply 12 and 12.
+Assistant: 12 * 12 = The result is: 144
+LLM Answer: The capital of Italy is Rome.
+
+12 multiplied by 12 is 144.
+--------------------------------------------------
+
+You: Add 2 and 2 and multiply 3 and 3.
+Assistant: 2 + 2 = The result is: 4
+3 * 3 = The result is: 9
+--------------------------------------------------
+
+You: What is the distance between Earth and Mars?
+Assistant: LLM Answer: The distance between Earth and Mars varies significantly because both planets are orbiting the Sun at different speeds and distances.  There's no single answer.  The distance can range from about 54.6 million kilometers (33.9 million miles) at its closest to over 401 million kilometers (249 million miles) at its farthest.
+--------------------------------------------------

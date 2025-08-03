@@ -1,0 +1,20 @@
+
+You: What is 12 times 7?
+Assistant: The result is: 84
+--------------------------------------------------
+
+You: add 45 and 30?
+Assistant: The result is: 75
+--------------------------------------------------
+
+You: What is capital of France?
+Assistant: Step 1: Identify the question. The user is asking for the capital city of France..
+
+Step 2: Recall the answer. The capital city of France is Paris.
+
+Step 3: Provide the answer. The capital of France is Paris.
+--------------------------------------------------
+
+You: Multiply 9 and 8 , and also tell me capital of Japan.
+Assistant: Graceful failure (no multi-step yet)
+--------------------------------------------------
